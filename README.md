@@ -7,7 +7,7 @@
 <h1 align="center">📈</h1>
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=JoeABCDEF&show_icons=true&theme=dracula&hide_border=true" /></div>
 
-<h1 align="center">📈</h1>
+<h1 align="center">📈🐱‍🏍</h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeABCDEF&langs_count=9" /></div>
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeABCDEF&show_icons=true&theme=dracula&hide_border=true)](https://github.com/JoeABCDEF) -->
