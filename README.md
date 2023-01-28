@@ -1,9 +1,7 @@
-## 🐱‍💻
+## ![github visitor](https://profile-counter.glitch.me/JoeABCDEF/count.svg)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeABCDEF)](https://github.com/anuraghazra/github-readme-stats) -->
- 
 ### 💻
 - ✏ `Web`
-
 <h1 align="center">📈</h1>
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=JoeABCDEF&show_icons=true&theme=dracula&hide_border=true" /></div>
 
