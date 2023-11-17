@@ -1,11 +1,13 @@
 ## ![github visitor](https://profile-counter.glitch.me/JoeABCDEF/count.svg)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
+</picture>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeABCDEF)](https://github.com/anuraghazra/github-readme-stats) -->
-### 💻
-- ✏ `Web`
-<h1 align="center">📈</h1>
+<!-- <h1 align="center">-</h1> -->
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api?username=JoeABCDEF&show_icons=true&theme=dracula&hide_border=true" /></div>
 
-<h1 align="center">📈🐱‍🏍</h1>
+<!-- <h1 align="center">-</h1> -->
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeABCDEF&langs_count=9" /></div>
   
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeABCDEF&show_icons=true&theme=dracula&hide_border=true)](https://github.com/JoeABCDEF) -->
