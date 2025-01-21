@@ -1,4 +1,5 @@
 ## ![github visitor](https://profile-counter.glitch.me/JoeABCDEF/count.svg)
+[![An image of @joeabcdef's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joeabcdef)](https://holopin.io/@joeabcdef)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
